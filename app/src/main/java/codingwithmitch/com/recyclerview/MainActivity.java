@@ -54,8 +54,7 @@ public class MainActivity extends AppCompatActivity {
         mImageUrls.add("https://i.redd.it/obx4zydshg601.jpg");
         mNames.add("Austrailia");
 
-        mImageUrls.add("https://i.imgur.com/ZcLLrkY.jpg");
-        mNames.add("Washington");
+
 
         initRecyclerView();
     }
